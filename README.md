@@ -16,12 +16,17 @@ Please contact @lsig or @lqfi for information.
 #### FAQ
 
 Q - Release date?
+
 A - Once I finish Whiskey. ETA around August but it's subject to change.
 
-Q - What happened to strawlabs
+
+Q - What happened to @strawlabs
+
 A - All projects are being moved to this page.
 
+
 Q - Open-source?
+
 A - Why wouldn't it be?
 
 #### Other inquiries
